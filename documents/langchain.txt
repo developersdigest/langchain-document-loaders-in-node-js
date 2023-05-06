@@ -1,0 +1,11 @@
+Langchain is a powerful library for working with language models. Some of its key features include:
+
+- Document Retrieval: Langchain allows you to retrieve relevant documents based on a given query. This feature is useful for building search engines and information retrieval systems.
+
+- Text Embeddings: Langchain can generate vector representations (embeddings) of text. These embeddings capture the semantic meaning of the text and can be used for tasks such as text classification and clustering.
+
+- Question-Answering: Langchain provides a question-answering functionality that can answer questions based on a set of documents. This feature is valuable for building intelligent chatbots and virtual assistants.
+
+- Support for Multiple File Formats: Langchain supports loading documents from various file formats, including JSON, CSV, TXT, and PDF. This flexibility makes it easy to work with different types of data.
+
+- Vector Store: Langchain allows you to create and manage vector stores, which are collections of vector embeddings. Vector stores can be used for efficient similarity search and retrieval.
